@@ -1,0 +1,36 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# LaTeX compilation auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.lot
+*.lof
+*.out
+*.log
+materiales/*.aux
+materiales/*.log
+materiales/*.out
+materiales/*.toc
+materiales/*.lot
+materiales/*.lof
+materiales/*.fls
+materiales/*.fdb_latexmk
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
